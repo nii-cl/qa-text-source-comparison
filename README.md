@@ -1,6 +1,6 @@
 # qa-text-source-comparison
 
-This repository contains the data and crowdsourcing instructions used in [*What Makes Reading Comprehension Questions Difficult?* (Sugawara et al., ACL 2022)](https://aclanthology.org/2022.acl-long.479/).
+This repository contains the data and crowdsourcing instructions used in [What Makes Reading Comprehension Questions Difficult? (Sugawara et al., ACL 2022)](https://aclanthology.org/2022.acl-long.479/).
 
 ## Contents
 
